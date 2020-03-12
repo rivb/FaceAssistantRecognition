@@ -10,7 +10,7 @@ Face recognition system to control the assistant of the students in classes.
         
 3.- Connect face recognition to DataBase.
 
-4.- Upload the model to an online app.
+4.- Deploy the model to an online app.
 
 # To Do 
 
