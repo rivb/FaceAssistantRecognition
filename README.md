@@ -7,7 +7,6 @@ Face recognition system to control the assistant of the students in classes.
 1.- Find the face recognition algorithm. 
       
 2.- Train face recognition algorithm .
-        dskjfjaskldjflksadjfdjskflakdjslfd
         
 3.- Connect face recognition to DataBase.
 
