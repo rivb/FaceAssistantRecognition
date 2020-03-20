@@ -24,4 +24,4 @@ Face recognition system to control the assistant of the students in classes.
 
 5.- For aprove assistant, add also location restriction.
 
-6.- Improve first verification.
+6.- Improve first verification. (DNI)
